@@ -1,0 +1,9 @@
+{
+  "session_id": "20260601_142436_cca75a",
+  "model": "claude-sonnet-4-6",
+  "base_url": "https://api.rvcompute.com:60000/v1",
+  "platform": "cli",
+  "session_start": "2026-06-01T14:25:02.849595",
+  "last_updated": "2026-06-01T14:25:07.643639",
+  "message_count": 2
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! What can I help you with?",
+    "reasoning": null,
+    "finish_reason": "stop"
+  }
+]
